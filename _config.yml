@@ -8,17 +8,16 @@ google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: SaifAliMZ
-user_description: Some text about you.
-disqus_username: disqus_username
+user_description: Geek. Gamer.
+disqus_username: saifalimz
 
 # Social Media
 # Remove the item if you don't need it
 github_username: saifalimz
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: saifalimz
+twitter_username: saifalimz
+instagram_username: xx_saif_ali
+linkedin_username: saifalimz
 
 # Build settings
 markdown: kramdown
