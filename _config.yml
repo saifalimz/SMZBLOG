@@ -2,7 +2,7 @@
 title: SaifAliMZ's Blog | Technically Amazing
 email: saifalimz@gmail.com
 description: Technology Blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.saifalimz.me" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
