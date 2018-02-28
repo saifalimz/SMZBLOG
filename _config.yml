@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: SaifAliMZ's Blog | Technically Amazing
+email: saifalimz@gmail.com
+description: Technology Blog.
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://blog.saifalimz.me" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
